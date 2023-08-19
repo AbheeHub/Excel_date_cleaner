@@ -30,3 +30,12 @@ It will accept:
 8. Another way is to select all RAR files then right-click and choose Extract To and follow same as step 4. This will also do the same.
 9. Now you have all the required files.
 <br>Note that: None of the file should be missing from that extracted folder else the executable will not work.
+
+
+### Step By Step Tutorial
+##### Step 1 <br><br> ![Step 1](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%201.gif)
+##### Step 2 <br><br> ![Step 2](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%202.gif)
+##### Step 3 <br><br> ![Step 3](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%203.gif)
+##### Step 4 <br><br> ![Step 4](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%204.gif)
+##### Step 5 <br><br> ![Step 5](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%205.gif)
+##### Step 6 <br><br> ![Step 6](https://github.com/AbheeHub/Excel_date_cleaner/blob/b976966352ac87ac4e1b9a675d4f9a26c206eab1/Media/Excel%20Clean%20gif%206.gif)
