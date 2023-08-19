@@ -4,14 +4,19 @@
 - So to get rid out of this problem, this tool is made. This will take up your date column and clean it in a proper format.
 
 
-## What values this tool will accept?
+### Things to note before using it
+- It will work on **Windows** based systems only.
+- Does **not require** any administrator priviledges.
+- It works with only **CSV** files. If your data is in .xlsx or any similar spreadsheet format then first you need to convert it into a .csv file, then you can use this Excel Date Cleaner Tool.
+
+### What values this tool will accept?
 It will accept:
 - Datetime values
 - Date values
 - Note: will only work with human understadable date format.
 
 
-## How to download this tool
+### How to download this tool
 1. Download or clone this repository.
 2. If you download it, you receive its zip. In that case extract that zip file. If cloned then you get all files directly.
 3. Now you will see 3 RAR files whch are splited. **You will need WinRAR or an RAR file decompressor tool so that you can decompress them.** I suggest to us WinRAR.
